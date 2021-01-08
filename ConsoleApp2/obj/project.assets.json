@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\ConsoleApp2\\CheckClock.csproj",
+      "projectUniqueName": "D:\\Du_An\\Winform_CShap\\ConsoleApp2\\CheckClock.csproj",
       "projectName": "CheckClock",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\ConsoleApp2\\CheckClock.csproj",
+      "projectPath": "D:\\Du_An\\Winform_CShap\\ConsoleApp2\\CheckClock.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\ConsoleApp2\\obj\\",
+      "outputPath": "D:\\Du_An\\Winform_CShap\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
