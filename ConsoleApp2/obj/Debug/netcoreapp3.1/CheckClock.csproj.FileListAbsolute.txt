@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CheckClock.exe
+C:\Users\ADMIN\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CheckClock.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CheckClock.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CheckClock.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CheckClock.dll
+C:\Users\ADMIN\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CheckClock.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.dll
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CheckClock.genruntimeconfig.cache
