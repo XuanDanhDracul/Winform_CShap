@@ -32,11 +32,11 @@ namespace CheckClock
         {
             Console.WriteLine($"Gia xang giam {oldchange - newchange}");
         }
-        public static void Main(string[] args)
-        {
-            var prince = new Prince();
-            prince.PrinceChange += PrinceChange_Aument;
-            prince.Price_Men = 20000;
-        }
+        //public static void Main(string[] args)
+        //{
+        //    var prince = new Prince();
+        //    prince.PrinceChange += PrinceChange_Aument;
+        //    prince.Price_Men = 20000;
+        //}
     }
 }
